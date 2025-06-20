@@ -1,6 +1,6 @@
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=php,flutter,django,js,ts,react,nextjs,tailwindcss,materialui,html,css,sass,bootstrap,py,postgres,postman,vscode,git,github,githubactions,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,flutter,django,js,swift,ts,react,nextjs,tailwindcss,materialui,html,css,sass,bootstrap,py,postgres,postman,vscode,git,github,githubactions,vercel)](https://skillicons.dev)
 
 <p align="top">
   <img src="https://img.shields.io/github/stars/kellydanielo?style=for-the-badge&logo=github&color=005FED" />
