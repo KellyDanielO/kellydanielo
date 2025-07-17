@@ -1,8 +1,6 @@
 ## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=php,flutter,django,js,swift,ts,react,nextjs,tailwindcss,materialui,html,css,sass,bootstrap,py,postgres,postman,vscode,git,github,githubactions,vercel)](https://skillicons.dev)
-## My Top Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellyDanielO"/>
 <p align="top">
   <img src="https://img.shields.io/github/stars/kellydanielo?style=for-the-badge&logo=github&color=005FED" />
   <img src="https://img.shields.io/github/followers/kellydanielo?style=for-the-badge&logo=github&color=FCC624" />
@@ -20,3 +18,8 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adedoyin-emmanuel&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="adedoyin-emmanuel" /></p>  -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KellyDanielO&show_icons=true&locale=en&theme=github_dark_dimmed&include_all_commits=true" /></p>
+
+
+## Top languages in my account
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellyDanielO"/>
+## funny how js is first 
