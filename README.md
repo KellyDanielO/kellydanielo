@@ -22,4 +22,5 @@
 
 ## Top languages in my account
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellyDanielO"/>
-## funny how js is first 
+
+funny how js is first 
