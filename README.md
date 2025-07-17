@@ -19,8 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KellyDanielO&show_icons=true&locale=en&theme=github_dark_dimmed&include_all_commits=true" /></p>
 
-
-## Top languages in my account
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellyDanielO"/>
-
-funny how js is first 
